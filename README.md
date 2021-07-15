@@ -6,6 +6,7 @@ built a discord bot using Discord API for group of programmers working on a proj
 npm install
 ```
 ### Run 
+add discord bot and webhook token in `.env` file 
 ```bash
 npm start, or
 npm dev
