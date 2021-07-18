@@ -8,7 +8,9 @@ npm install
 ### Run 
 add discord bot and webhook token in `.env` file 
 ```bash
-npm start, or
+npm start
+```
+```bash
 npm dev
 ```
 
