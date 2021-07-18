@@ -10,6 +10,7 @@ add discord bot and webhook token in `.env` file
 ```bash
 npm start
 ```
+for development (nodemon)
 ```bash
 npm dev
 ```
