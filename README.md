@@ -16,5 +16,4 @@ for development (nodemon)
 npm dev
 ```
 
-#### Note
-It is not fully conventional, will work towards it
+`Note: It is not fully conventional, will work towards it`
